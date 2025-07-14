@@ -1,1 +1,1 @@
-# deep-learning-in-data-science-DD2424-
+# Deep-Learning-in-Data-Science-DD2424-
