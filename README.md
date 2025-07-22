@@ -58,17 +58,6 @@ DD2424-Deep-Learning-in-Data-Science/
 - Hands-on implementation of backpropagation
 - Experience with hyperparameter tuning
 
-### 🖼️ Assignment 2: Convolutional Neural Networks
-**Focus:** CNN architectures and computer vision applications
-
-**Key Components:**
-- Convolution and pooling operations
-- CNN architecture design for image classification
-- Batch normalization implementation
-- Data augmentation techniques
-
-**Status:** *Files to be organized*
-
 ### 🔄 Assignment 3: Recurrent Neural Networks
 **Focus:** Sequence modeling and text generation
 
@@ -137,7 +126,6 @@ jupyter notebook
 | Assignment | Dataset | Best Accuracy | Architecture |
 |------------|---------|---------------|--------------|
 | Assignment 1 | CIFAR-10 | ~45% | 2-layer MLP |
-| Assignment 2 | CIFAR-10 | ~85% | Custom CNN |
 | Assignment 3 | Text Data | High Perplexity | LSTM |
 | Assignment 4 | Various | Project-specific | Advanced Models |
 
@@ -201,7 +189,7 @@ This deep understanding serves as a solid foundation for:
 
 - **Author:** Jackeygle
 - **Institution:** KTH Royal Institute of Technology
-- **Course Period:** [Your Year/Semester]
+- **Course Period:** 2024 fall
 - **Portfolio:** https://jackeysproject.web.app
 - **GitHub:** https://github.com/jackeygle
 
