@@ -24,7 +24,6 @@ DD2424-Deep-Learning-in-Data-Science/
 │   ├── Assignment1.ipynb         # Main assignment notebook
 │   ├── Assignment1_bonus.ipynb   # Bonus exercises
 │   └── Assignment1.pdf           # Assignment report
-├── Assignment2/           # Convolutional Neural Networks
 ├── Assignment3/           # Recurrent Neural Networks  
 │   └── assignment3bonus.ipynb    # Bonus implementation
 ├── Assignment4/           # Advanced Deep Learning
