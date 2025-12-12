@@ -1,0 +1,31 @@
+# Core Data Science Libraries
+numpy>=1.21.0
+pandas>=1.4.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+scikit-learn>=1.0.0
+
+# Deep Learning Frameworks
+tensorflow>=2.8.0
+torch>=1.11.0
+torchvision>=0.12.0
+
+# Jupyter and Development
+jupyter>=1.0.0
+ipykernel>=6.0.0
+notebook>=6.4.0
+
+# Image Processing and Computer Vision
+opencv-python>=4.5.0
+PIL>=8.0.0
+imageio>=2.9.0
+
+# Utilities and Visualization
+tqdm>=4.62.0
+plotly>=5.0.0
+tensorboard>=2.8.0
+
+# Optional: For advanced functionality
+# transformers>=4.0.0  # For NLP tasks
+# gym>=0.21.0          # For reinforcement learning
+# albumentations>=1.0.0 # For advanced data augmentation 
